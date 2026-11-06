@@ -1,0 +1,1 @@
+window.ENZ_FB={apiKey:"AIzaSyDWXkv_QaH_byY0xO7LQkGBKhF_HfDPZBI",authDomain:"enzebatyar.firebaseapp.com",projectId:"enzebatyar",storageBucket:"enzebatyar.firebasestorage.app",messagingSenderId:"686539386759",appId:"1:686539386759:web:e13cba9bcd0e67646fed22"};
